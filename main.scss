@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+body {
+  background-image: url('space.jpg');
+}
+
+#canvas {
+  background: black;
+  cursor: none;
+}
